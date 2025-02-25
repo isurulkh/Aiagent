@@ -21,8 +21,8 @@ This project is an intelligent query system that uses AI to analyze and respond 
 
 1. Clone the repository:
 ```bash
-git clone (https://github.com/isurulkh/Aiagent.git)
-cd chatagentdd
+git clone https://github.com/isurulkh/Aiagent.git
+cd Aiagent
 ```
 
 2. Set up Python virtual environment:
