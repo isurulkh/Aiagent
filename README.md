@@ -21,7 +21,7 @@ This project is an intelligent query system that uses AI to analyze and respond 
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone (https://github.com/isurulkh/Aiagent.git)
 cd chatagentdd
 ```
 
